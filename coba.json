@@ -1,0 +1,30 @@
+[
+    {
+        "nama" : "yudistira",
+        "umur" : 23,
+        "nrp" : "123456789",
+        "lulus" : true,
+        "hobi" : [
+            "gaming", 
+            "coding"
+        ],
+        "pebimbing" : {
+            "pebimbing1" : "fathur rohman",
+            "pebimbing2" : "muhammad faisal"
+        }
+    },
+    {
+        "nama" : "sandhika",
+        "umur" : 23,
+        "nrp" : "098765432",
+        "lulus" : true,
+        "hobi" : [
+            "skating", 
+            "coding"
+        ],
+        "pebimbing" : {
+            "pebimbing1" : "fathur rohman",
+            "pebimbing2" : "muhammad doddy"
+        }
+    }
+]
